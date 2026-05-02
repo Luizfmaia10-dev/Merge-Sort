@@ -1,5 +1,3 @@
-# Merge-Sort
-
 # Merge Sort em Java
 
 Este projeto apresenta uma implementação do algoritmo **Merge Sort** utilizando a linguagem Java.
